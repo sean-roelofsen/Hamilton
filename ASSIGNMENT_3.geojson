@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "Sheet1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "street Name ": "KENILWORTH at MAIN", "latitude ": 43.240814546906897, "longitude ": 79.810129692342898 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "JAMES at KING", "latitude ": 43.256603757906497, "longitude ": 79.8692481 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "BARTON at KENILWORTH", "latitude ": 43.2493512006549, "longitude ": 79.806462728835299 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "2 BARTON at PARKDALE", "latitude ": 43.245256841828699, "longitude ": 79.788819440481802 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "9 BARTON at KENILWORTH", "latitude ": 43.249304312701902, "longitude ": 79.806548559518106 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "8 PARKDALE at QUEENSTON", "latitude ": 43.2345941744802, "longitude ": 79.792915271164603 }, "geometry": null },
+{ "type": "Feature", "properties": { "street Name ": "10 CENTENNIAL at QUEENSTON", "latitude ": 43.229397435891599, "longitude ": 79.763659373012104 }, "geometry": null }
+]
+}
