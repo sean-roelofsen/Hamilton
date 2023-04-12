@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"KENILWORTH at MAIN","latitude":"43.24081455","longitude":"-79.81012969"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"JAMES at KING","latitude":"43.25660376","longitude":"-79.8692481"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"BARTON at KENILWORTH","latitude":"43.2493512","longitude":"-79.80646273"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"BARTON at PARKDALE","latitude":"43.24525684","longitude":"-79.78881944"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"BARTON at KENILWORTH","latitude":"43.24930431","longitude":"-79.80654856"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"PARKDALE at QUEENSTON","latitude":"43.23459417","longitude":"-79.79291527"}},
+{"type":"Feature","geometry":null,"properties":{"StreetName ":"CENTENNIAL at QUEENSTON","latitude":"43.22939744","longitude":"-79.76365937"}}
+]}
