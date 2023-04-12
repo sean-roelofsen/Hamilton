@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.81012969,
+          43.24081455
+        ]
+      },
+      "properties": {
+        "StreetName": "KENILWORTH at MAIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8692481,
+          43.25660376
+        ]
+      },
+      "properties": {
+        "StreetName": "JAMES at KING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80646273,
+          43.2493512
+        ]
+      },
+      "properties": {
+        "StreetName": "BARTON at KENILWORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78881944,
+          43.24525684
+        ]
+      },
+      "properties": {
+        "StreetName": "BARTON at PARKDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80654856,
+          43.24930431
+        ]
+      },
+      "properties": {
+        "StreetName": "BARTON at KENILWORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.79291527,
+          43.23459417
+        ]
+      },
+      "properties": {
+        "StreetName": "PARKDALE at QUEENSTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76365937,
+          43.22939744
+        ]
+      },
+      "properties": {
+        "StreetName": "CENTENNIAL at QUEENSTON"
+      }
+    }
+  ]
+}
